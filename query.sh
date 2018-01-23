@@ -1,4 +1,4 @@
-#! /bin/bash -ex
+#! /bin/bash -e
 
 # Note: things get cached; `rm *.txt` to clean the cache entirely
 
@@ -26,3 +26,14 @@ if [ '!' -e affected-packages.txt ]; then
 fi
 
 echo 'Affected packages:' $(cat affected-packages.txt | wc -l)
+
+if [ '!' -e python-buildrequires.txt ]; then
+    for pkg in $(cat affected-packages.txt); do
+        echo $pkg
+        sudo dnf --disablerepo='*' --enablerepo='rawhide' --srpm repoquery --requires $pkg |
+            grep python |
+            sed -e's/^/    /'
+    done | tee python-buildrequires.txt
+fi
+
+cat python-buildrequires.txt | python3 analyze-py3-buildreq.py

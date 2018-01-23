@@ -1,0 +1,2237 @@
+accerciser
+    python3
+    python3-devel
+ambari-agent
+    python
+    python-setuptools
+ambari-client
+    python
+    python-setuptools
+ambari-server
+    python
+    python-setuptools
+anaconda-dracut
+    python3-bugzilla
+    python3-devel
+    python3-kickstart >= 2.44-1
+    python3-nose
+anaconda-realmd
+    python2-devel
+anjuta
+    python3-devel
+anki
+    python-setuptools
+    python-simplejson
+    python-sqlalchemy
+    python2-devel
+apitrace-libs
+    python2-devel
+aqsis-data
+    python-sphinx
+arm-none-eabi-gdb
+    python-devel
+asterisk
+asterisk-alembic
+audio-convert-mod
+    python >= 2.4
+    python-mutagen
+audit-viewer
+    python
+autocloud-backend
+    python-flask
+    python-redis
+    python-retask
+    python-setuptools
+    python-sqlalchemy
+    python-sqlalchemy-utils
+    python2-devel
+autocloud-common
+    python-flask
+    python-redis
+    python-retask
+    python-setuptools
+    python-sqlalchemy
+    python-sqlalchemy-utils
+    python2-devel
+avogadro-libs
+    python2-devel
+bakefile
+    python-libxml2
+    python2-devel
+bibus
+    python-devel
+bkchem
+    python-devel
+bleachbit
+    python2-devel
+blueberry
+    python2-devel
+bluefish-shared-data
+    python2-devel >= 2.7
+bodhi-server
+    python2
+    python2-alembic
+    python2-arrow
+    python2-bleach
+    python2-bugzilla
+    python2-click
+    python2-colander
+    python2-cornice < 2
+    python2-cornice-sphinx
+    python2-createrepo_c
+    python2-cryptography
+    python2-devel
+    python2-dnf
+    python2-dogpile-cache
+    python2-fedora
+    python2-feedgen
+    python2-flake8
+    python2-iniparse
+    python2-jinja2
+    python2-kitchen
+    python2-koji
+    python2-librepo
+    python2-markdown
+    python2-mock
+    python2-openid
+    python2-pillow
+    python2-progressbar
+    python2-pydns
+    python2-pylibravatar
+    python2-pyramid
+    python2-pyramid-fas-openid
+    python2-pyramid-mako
+    python2-pyramid-tm
+    python2-pytest
+    python2-pytest-cov
+    python2-simplemediawiki
+    python2-sphinx
+    python2-sqlalchemy
+    python2-sqlalchemy_schemadisplay
+    python2-urlgrabber
+    python2-virtualenv
+    python2-webtest
+    python2-yaml
+boo-examples
+boost-build
+    python-devel
+    python2-numpy
+    python3-devel
+    python3-numpy
+booth-test
+    python2-devel
+bugyou
+    python-setuptools
+    python2-devel
+bugzilla-contrib
+    python
+    python-sphinx
+bugzilla-doc
+    python
+    python-sphinx
+buildbot-master
+    python-dateutil
+    python-devel
+    python-migrate
+    python-mock
+    python-sphinx
+    python-sqlalchemy
+    python-twisted
+bup
+    python2-devel
+    python2-tornado
+caja-terminal
+    python2-devel
+calibre
+    python >= 2.7
+    python-BeautifulSoup
+    python-apsw
+    python-cssutils >= 0.9.9
+    python-dateutil
+    python-devel >= 2.7
+    python-imaging
+    python-lxml
+    python-mechanize
+    python-qt5
+    python-qt5-devel
+    python-qt5-webkit
+    python-setuptools
+    python2-html5-parser
+    python2-msgpack
+    python2-regex
+cas
+    python-devel
+catkin-devel
+    python-empy
+    python-nose
+    python-rospkg
+    python-setuptools
+    python-sphinx
+    python-yaml
+    python2-devel
+ceph-ansible
+    python3-devel
+ceph-mgr
+    python
+    python-devel
+    python-nose
+    python-prettytable
+    python-requests
+    python-sphinx
+    python-virtualenv
+    python3-Cython
+    python3-devel
+    python3-setuptools
+cgit
+chameleon
+    python >= 2.3
+cherokee
+    python2
+chromium-common
+    python-BeautifulSoup
+    python-beautifulsoup4
+    python-html5lib
+    python-markupsafe
+    python-ply
+    python-simplejson
+cinnamon
+cinnamon-screensaver
+    python3-devel
+cjdns-python
+    python2
+clang-analyzer
+    python2-virtualenv
+    python3-lit
+    python3-sphinx
+clufter-common
+    python2-devel
+    python2-lxml
+    python2-setuptools
+    python3-devel
+    python3-lxml
+    python3-setuptools
+cobbler
+    python-cheetah
+    python-setuptools
+    python2-devel
+cobbler-web
+    python-cheetah
+    python-setuptools
+    python2-devel
+cockpit-integration-tests
+    /usr/bin/python2
+comix
+    python2-imaging
+copr-backend
+    python-IPy
+    python-copr >= 1.60
+    python-daemon
+    python-dateutil
+    python-futures
+    python-lockfile
+    python-mock
+    python-munch
+    python-psutil
+    python-pytest-cov
+    python-requests
+    python-retask
+    python-setproctitle
+    python-setuptools
+    python-six
+    python-sphinx
+    python2-devel
+copr-dist-git
+    python-bunch
+    python-dateutil
+    python-mock
+    python-munch
+    python-netaddr
+    python-pytest-cov
+    python-requests
+    python-six
+    python2-jinja2
+    python2-psutil
+copr-frontend
+    python-blinker
+    python-dateutil
+    python-decorator
+    python-flask
+    python-flask-openid
+    python-flask-restful
+    python-flask-script
+    python-flask-sqlalchemy
+    python-flask-wtf
+    python-markdown
+    python-marshmallow >= 2.0.0
+    python-mock
+    python-munch
+    python-netaddr
+    python-openid-teams
+    python-pylibravatar
+    python-redis
+    python-setuptools
+    python-six
+    python-sphinx
+    python-sphinxcontrib-httpdomain
+    python-whoosh
+    python2-CommonMark
+    python2-devel
+    python2-flask-whooshee
+    python2-modulemd
+    python2-pygments
+    python2-requests
+copr-keygen
+    python-devel
+    python-flask
+    python-mock
+    python-requests
+    python-setuptools
+    python-six
+    python-sphinx
+    python-sphinxcontrib-httpdomain
+    python3-devel
+    python3-flask
+    python3-mock
+    python3-pytest
+    python3-pytest-cov
+    python3-setuptools
+    python3-six
+cura-lulzbot
+    python2-devel
+cycle
+    python-devel >= 2.3
+cyphesis
+    python-devel
+darkserver-importer
+    python-setuptools
+    python2-devel
+devhelp
+diskimage-builder
+    python-d2to1
+    python-pbr
+    python-setuptools
+    python2-devel
+dlrn
+    python2-devel
+    python2dist(fixtures)
+    python2dist(flask-httpauth)
+    python2dist(mock)
+    python2dist(oslosphinx)
+    python2dist(passlib)
+    python2dist(pbr)
+    python2dist(pymod2pkg)
+    python2dist(python-subunit)
+    python2dist(pyyaml)
+    python2dist(rdopkg)
+    python2dist(setuptools)
+    python2dist(sh)
+    python2dist(six)
+    python2dist(sphinx) >= 1.1.2
+    python2dist(sphinx-rtd-theme)
+    python2dist(sqlalchemy)
+    python2dist(testrepository)
+    python2dist(testscenarios)
+    python2dist(testtools)
+    python3-devel
+    python3dist(fixtures)
+    python3dist(flask-httpauth)
+    python3dist(mock)
+    python3dist(passlib)
+    python3dist(pbr)
+    python3dist(pymod2pkg)
+    python3dist(python-subunit)
+    python3dist(pyyaml)
+    python3dist(rdopkg)
+    python3dist(setuptools)
+    python3dist(sh)
+    python3dist(six)
+    python3dist(sqlalchemy)
+    python3dist(testrepository)
+    python3dist(testscenarios)
+    python3dist(testtools)
+domoticz
+    python3-devel
+dpdk-examples
+    python-sphinx
+dpdk-tools
+    python-sphinx
+dpm-server-mysql
+    python-devel
+    python3-devel
+dracut-modules-olpc
+    python-devel
+dstat
+    python2-devel
+dynafed
+    python
+    python-devel
+edk2-tools-python
+    python
+efl
+efl-devel
+encuentro
+    python2-devel
+enemies-of-carlotta
+    python >= 2.1
+entangle
+eog-tests
+epylog
+    libxml2-python
+    python2
+esc
+etckeeper
+    python-markdown
+    python2-devel
+    python3-devel
+evolution-tests
+exabgp
+    python2-devel
+    python2-setuptools
+    python3-devel
+    python3-setuptools
+exaile
+execdb
+    python2-devel
+    python2-setuptools
+expendable
+    python
+extra-cmake-modules
+    python2-sphinx
+fedocal
+    python-alembic
+    python-bleach
+    python-dateutil >= 1:0
+    python-docutils
+    python-fedora >= 0.3.33
+    python-fedora-flask >= 0.3.33
+    python-flask
+    python-flask-wtf
+    python-kitchen
+    python-markdown
+    python-setuptools
+    python-sqlalchemy > 0.5
+    python-vobject
+    python-wtforms
+    python2-devel
+fedora-gooey-karma
+    python2-devel
+fedora-review
+    python-BeautifulSoup
+    python-bugzilla
+    python-packaging
+    python-straight-plugin
+    python2-devel
+    rpm-python
+fedora-review-tests
+    python-BeautifulSoup
+    python-bugzilla
+    python-packaging
+    python-straight-plugin
+    python2-devel
+    rpm-python
+fence-agents-common
+    openwsman-python3
+    python-pexpect
+    python-pycurl
+    python3-pexpect
+    python3-pycurl
+    python3-requests
+    python3-suds
+ffado
+    dbus-python
+    python2-PyQt5-devel
+    python2-devel
+firewall-config
+    python2-devel
+    python3-devel
+firmware-tools
+    python-devel
+    rpm-python
+fityk
+    python-sphinx
+fleet-commander-admin
+    dbus-python
+    libvirt-python
+    python-dbusmock
+    python-gobject
+    python2-devel
+    python2-pexpect
+fleet-commander-client
+    dbus-python
+    python-dbusmock
+    python-gobject
+    python2-devel
+FlightCrew-sigil-plugin
+    python3-devel
+flumotion
+    dbus-python
+    gstreamer-python >= 0.10.4
+    python-devel
+    python-kiwi >= 1.9.13
+    python-setuptools
+    python-tools
+    python-twisted-core
+    python-twisted-names
+    python-twisted-web
+fontforge
+    python3-devel
+fontmatrix
+    python2-devel
+freecad
+    python-matplotlib
+    python-pycxx-devel
+    python-pyside-devel
+    python2-devel
+freecad-data
+    python-matplotlib
+    python-pycxx-devel
+    python-pyside-devel
+    python2-devel
+freeipa-server-common
+    python-devel
+    python-ldap
+    python-lesscpy
+    python-netaddr
+    python-setuptools
+    python-six
+    python2-cffi
+    python2-dns
+    python2-libsss_nss_idmap
+    python2-pyasn1
+    python2-pyasn1-modules
+    python3-devel
+    python3-setuptools
+freeorion-data
+    python2-devel >= 2.7
+fritzing
+fts-monitoring
+    python2-devel
+fts-server
+fwfstab
+    python-devel >= 2.4
+fwupd-tests
+    python3
+    python3-cairo
+    python3-gobject
+    python3-pillow
+gajim
+    python2-devel
+garmin-sync
+    python-devel
+gazebo-devel
+gcc-python2-debug-plugin
+    python-debug
+    python-devel
+    python-lxml
+    python-pygments
+    python-six
+    python3-debug
+    python3-devel
+    python3-lxml
+    python3-pygments
+    python3-six
+gcc-python2-plugin
+    python-debug
+    python-devel
+    python-lxml
+    python-pygments
+    python-six
+    python3-debug
+    python3-devel
+    python3-lxml
+    python3-pygments
+    python3-six
+gcc-python3-debug-plugin
+    python-debug
+    python-devel
+    python-lxml
+    python-pygments
+    python-six
+    python3-debug
+    python3-devel
+    python3-lxml
+    python3-pygments
+    python3-six
+gcc-python3-plugin
+    python-debug
+    python-devel
+    python-lxml
+    python-pygments
+    python-six
+    python3-debug
+    python3-devel
+    python3-lxml
+    python3-pygments
+    python3-six
+gcompris
+    gnome-python2
+    python-devel
+gdb-heap
+    python
+gdcm-examples
+    python2-devel
+    python3-devel
+gdesklets
+    gnome-python2-devel
+    python2-devel > 2.0.0
+gedit-latex
+gimp
+    python2-devel
+gimp-layer-via-copy-cut
+    python
+gimp-resynthesizer
+git-core
+    python2-devel
+glusterfs-devel
+    python2-devel
+glusterfs-events
+    python2-devel
+glusterfs-geo-replication
+    python2-devel
+glusterfs-server
+    python2-devel
+gnatcoll
+    python3-devel
+gnome-activity-journal
+    python-devel
+    python-distutils-extra
+gnome-builder
+    python3-devel
+    python3-sphinx
+gnome-commander
+    python-devel
+gnome-devel-docs
+gnome-hearts
+    python-devel
+gnome-photos-tests
+gnome-python2-bonobo
+    python2-devel >= 2.3.0
+gnome-python2-gconf
+    python2-devel >= 2.3.0
+gnome-todo
+gnome-transliteration
+gnome-weather-tests
+gnubg
+    python-devel
+gnucash
+    python-devel
+gnumeric
+gnuradio
+    python-cheetah
+    python-devel
+    python-lxml
+gnuradio-examples
+    python-cheetah
+    python-devel
+    python-lxml
+gobject-introspection-devel
+    python-devel >= 2.5
+    python-mako
+gofer
+    python
+    python-setuptools
+    python2-devel
+    rpm-python
+golly
+    python-devel
+golly-devel
+    python-devel
+gphotoframe
+    python-distutils-extra
+    python-exif
+    python2-devel
+graphite-web
+    python2-devel
+grass
+    python-dateutil
+    python-devel
+    python-pillow
+greenwave
+    python-dogpile-cache
+    python-sphinxcontrib-httpdomain
+    python2-devel
+    python2-flask
+    python2-pytest
+    python2-requests
+    python2-setuptools
+    python2-sphinx
+gst-devtools
+    python3-devel
+gtk-doc
+    python2-devel
+    python2-six
+gtranslator
+hatari-ui
+    python2-devel
+hugin
+    python-devel
+ibus-bogo
+    python3-PyQt4-devel
+    python3-devel
+    python3-gobject
+ibus-hangul
+    python3
+ibus-libpinyin
+    python3-devel
+ibus-libzhuyin
+    python3-devel
+ibus-pinyin
+ibus-table
+    python3-devel
+ibus-typing-booster
+    python3-devel
+    python3-enchant
+    python3-pyxdg
+ibus-xkbc
+    python-devel
+ikiwiki
+    python-docutils
+    python2-devel
+inkscape
+    python-devel
+inkscape-sozi
+    python2-devel
+inkscape-table
+    python2-devel
+inn
+    python
+insight
+    python3-devel
+InsightToolkit-examples
+    python2-devel
+jam-control
+javapackages-local
+    python3-devel
+    python3-lxml
+    python3-nose
+    python3-setuptools
+    python3-six
+jbrout
+    python2-devel
+k3d
+    python2-devel
+kajongg
+    python-twisted
+kdevelop
+kernel-debug-devel
+kernel-devel
+kf5-kdelibs4support-devel
+kf5-ki18n-devel
+    python
+kicad
+kmymoney
+koji-builder
+    python
+    python-sphinx
+    python2-devel
+    python3-devel
+koji-containerbuild-builder
+    python
+    python2-devel
+    python2-setuptools
+koji-containerbuild-hub
+    python
+    python2-devel
+    python2-setuptools
+koji-hub
+    python
+    python-sphinx
+    python2-devel
+    python3-devel
+koji-hub-plugins
+    python
+    python-sphinx
+    python2-devel
+    python3-devel
+koji-web
+    python
+    python-sphinx
+    python2-devel
+    python3-devel
+konversation
+    python3-rpm-macros
+ktorrent
+kupfer
+    python-docutils
+kupfer-thunar
+    python-docutils
+laby
+leatherman-devel
+libfreenect
+    python2-devel
+    python2-numpy
+    python3-devel
+    python3-numpy
+libgda-tools
+libkkc-common
+    marisa-python
+    python2-devel
+libopensync-plugin-moto
+    python-devel
+libopensync-plugin-synce-wm5
+    python-setuptools
+    python2-devel
+libpeas-devel
+    python2-devel
+    python3-devel
+libreoffice-emailmerge
+    python3-devel
+libreoffice-gdb-debug-support
+    python3-devel
+libreoffice-librelogo
+    python3-devel
+libreoffice-pyuno
+    python3-devel
+libreoffice-sdk-doc
+    python3-devel
+librevenge-gdb
+libstdc++
+    python-sphinx
+    python2-devel
+    python3-devel
+libunity
+    python3
+    python3-devel
+liferea
+lilypond
+    python-devel >= 2.4.0
+lokalize
+lpf
+    python2-devel
+lvm2-testsuite
+    python-setuptools
+    python2-devel
+    python3-dbus
+    python3-devel
+    python3-pyudev
+lyx-common
+    python
+mailman
+    python-devel
+    python-dns
+mariadb-test
+    python3
+mate-menu
+    python2-devel >= 2.7
+    python2-distutils-extra
+    python2-setuptools
+mate-menus
+    python-devel
+mesos
+    protobuf-python
+    python-pip
+    python-setuptools
+    python-wheel
+    python2-devel
+metamorphose2
+    python2
+meta-test-family
+    python2-devel
+    python2-setuptools
+metromap
+    python
+mftrace
+    python2
+mingw32-python2
+    python2-devel
+mingw32-python2-Cython
+    mingw32-python2
+    mingw32-python2-setuptools
+    mingw64-python2
+    mingw64-python2-setuptools
+mingw32-python2-gdal
+    mingw32-python2
+    mingw32-python2-numpy
+    mingw64-python2
+    mingw64-python2-numpy
+mingw32-python2-libkml
+    mingw32-python2
+    mingw64-python2
+mingw32-python2-numpy
+    mingw32-python2
+    mingw32-python2-Cython
+    mingw32-python2-setuptools
+    mingw64-python2
+    mingw64-python2-Cython
+    mingw64-python2-setuptools
+mingw32-python2-qt5
+    mingw32-python2
+    mingw64-python2
+    python2-devel
+mingw32-python2-setuptools
+    mingw32-python2
+    mingw64-python2
+mingw32-qpid-cpp
+    python-devel
+mingw32-sip
+    mingw32-python2
+    mingw64-python2
+    python2-devel
+mingw64-python2
+    python2-devel
+mingw64-python2-Cython
+    mingw32-python2
+    mingw32-python2-setuptools
+    mingw64-python2
+    mingw64-python2-setuptools
+mingw64-python2-gdal
+    mingw32-python2
+    mingw32-python2-numpy
+    mingw64-python2
+    mingw64-python2-numpy
+mingw64-python2-libkml
+    mingw32-python2
+    mingw64-python2
+mingw64-python2-numpy
+    mingw32-python2
+    mingw32-python2-Cython
+    mingw32-python2-setuptools
+    mingw64-python2
+    mingw64-python2-Cython
+    mingw64-python2-setuptools
+mingw64-python2-qt5
+    mingw32-python2
+    mingw64-python2
+    python2-devel
+mingw64-python2-setuptools
+    mingw32-python2
+    mingw64-python2
+mingw64-qpid-cpp
+    python-devel
+mingw64-sip
+    mingw32-python2
+    mingw64-python2
+    python2-devel
+mintmenu
+    python2-devel >= 2.7
+    python2-distutils-extra
+    python2-setuptools
+mirrormanager
+    python >= 2.6
+mirrormanager2
+    python-GeoIP
+    python-IPy
+    python-alembic
+    python-dns
+    python-fedora >= 0.3.33
+    python-fedora-flask >= 0.3.33
+    python-flask
+    python-flask-admin
+    python-flask-wtf
+    python-flask-xml-rpc
+    python-psutil
+    python-setuptools
+    python-sqlalchemy >= 0.7
+    python-webob
+    python-wtforms
+    python2-devel
+mirrormanager2-mirrorlist
+    python-GeoIP
+    python-IPy
+    python-alembic
+    python-dns
+    python-fedora >= 0.3.33
+    python-fedora-flask >= 0.3.33
+    python-flask
+    python-flask-admin
+    python-flask-wtf
+    python-flask-xml-rpc
+    python-psutil
+    python-setuptools
+    python-sqlalchemy >= 0.7
+    python-webob
+    python-wtforms
+    python2-devel
+modularity-testing-framework
+    python2-devel
+    python2-setuptools
+moin
+    python2-devel
+    python2-setuptools
+monotone
+mote
+    python-arrow
+    python-beautifulsoup4
+    python-dateutil
+    python-fedora
+    python-fedora-flask
+    python-flask
+    python-memcached
+    python-openid
+    python-openid-cla
+    python-openid-teams
+    python-pip
+    python-requests
+    python-six
+    python2-devel
+mraa-devel
+    python3-devel
+    python3-setuptools
+mstflint
+muse
+mypaint
+    python2-devel
+    python2dist(numpy)
+nagios-plugins-lcgdm-common
+    python
+nautilus-font-manager
+    nautilus-python-devel
+    nemo-python-devel
+nautilus-pastebin
+    python-distutils-extra
+    python2-devel
+nemo
+    python3-gobject-base
+    python3-polib
+nemo-compare
+    python2-devel
+    python2-distutils-extra
+nemo-emblems
+    python2-devel
+    python2-distutils-extra
+nemo-font-manager
+    nautilus-python-devel
+    nemo-python-devel
+nemo-pastebin
+    python2-devel
+    python2-distutils-extra
+nemo-terminal
+    python2-devel
+    python2-distutils-extra
+nextcloud-client-caja
+    python2-sphinx
+nextcloud-client-nautilus
+    python2-sphinx
+nextcloud-client-nemo
+    python2-sphinx
+nitroshare-extension-caja
+nitroshare-extension-nautilus
+nitroshare-extension-nemo
+nodejs-emojione-python
+nordugrid-arc-arex
+    python-twisted-core
+    python-twisted-web
+    python2-devel
+    python3-devel
+nordugrid-arc-nagios-plugins-egi
+    python-sphinx
+    python2-devel
+npm
+ntop
+    python-devel
+    python-mako
+octave-miscellaneous
+octave-symbolic
+    python
+ompl-devel
+    python
+onboard-data
+    python3-dbus
+    python3-devel
+    python3-distutils-extra
+opencv-devel-docs
+    python2-devel
+    python2-numpy
+    python2-sphinx
+    python3-devel
+    python3-numpy
+openlayers
+    python
+openms-data
+openscad-MCAD
+    python2
+opensips
+    python-devel
+openvibe-data
+    python2-devel
+oscap-anaconda-addon
+    openscap-python
+    python-cpio
+    python-mock
+    python-nose
+    python2-devel
+ostree-tests
+otf2
+    python2-devel
+ovirt-guest-agent-common
+    python-pep8
+    python2-devel
+owncloud-client-caja
+    python2-sphinx
+owncloud-client-nautilus
+    python2-sphinx
+owncloud-client-nemo
+    python2-sphinx
+pagure
+    python-alembic
+    python-arrow
+    python-binaryornot
+    python-bleach
+    python-blinker
+    python-celery
+    python-chardet
+    python-cryptography
+    python-docutils
+    python-enum34
+    python-fedora
+    python-flask
+    python-flask-multistatic
+    python-flask-wtf
+    python-markdown
+    python-munch
+    python-nose
+    python-openid
+    python-openid-cla
+    python-openid-teams
+    python-psutil
+    python-pygit2 >= 0.20.1
+    python-pygments
+    python-redis
+    python-setuptools
+    python-sqlalchemy > 0.8
+    python-straight-plugin
+    python-wtforms
+    python2-devel
+pagure-ci
+    python-alembic
+    python-arrow
+    python-binaryornot
+    python-bleach
+    python-blinker
+    python-celery
+    python-chardet
+    python-cryptography
+    python-docutils
+    python-enum34
+    python-fedora
+    python-flask
+    python-flask-multistatic
+    python-flask-wtf
+    python-markdown
+    python-munch
+    python-nose
+    python-openid
+    python-openid-cla
+    python-openid-teams
+    python-psutil
+    python-pygit2 >= 0.20.1
+    python-pygments
+    python-redis
+    python-setuptools
+    python-sqlalchemy > 0.8
+    python-straight-plugin
+    python-wtforms
+    python2-devel
+pagure-ev
+    python-alembic
+    python-arrow
+    python-binaryornot
+    python-bleach
+    python-blinker
+    python-celery
+    python-chardet
+    python-cryptography
+    python-docutils
+    python-enum34
+    python-fedora
+    python-flask
+    python-flask-multistatic
+    python-flask-wtf
+    python-markdown
+    python-munch
+    python-nose
+    python-openid
+    python-openid-cla
+    python-openid-teams
+    python-psutil
+    python-pygit2 >= 0.20.1
+    python-pygments
+    python-redis
+    python-setuptools
+    python-sqlalchemy > 0.8
+    python-straight-plugin
+    python-wtforms
+    python2-devel
+pagure-loadjson
+    python-alembic
+    python-arrow
+    python-binaryornot
+    python-bleach
+    python-blinker
+    python-celery
+    python-chardet
+    python-cryptography
+    python-docutils
+    python-enum34
+    python-fedora
+    python-flask
+    python-flask-multistatic
+    python-flask-wtf
+    python-markdown
+    python-munch
+    python-nose
+    python-openid
+    python-openid-cla
+    python-openid-teams
+    python-psutil
+    python-pygit2 >= 0.20.1
+    python-pygments
+    python-redis
+    python-setuptools
+    python-sqlalchemy > 0.8
+    python-straight-plugin
+    python-wtforms
+    python2-devel
+pagure-logcom
+    python-alembic
+    python-arrow
+    python-binaryornot
+    python-bleach
+    python-blinker
+    python-celery
+    python-chardet
+    python-cryptography
+    python-docutils
+    python-enum34
+    python-fedora
+    python-flask
+    python-flask-multistatic
+    python-flask-wtf
+    python-markdown
+    python-munch
+    python-nose
+    python-openid
+    python-openid-cla
+    python-openid-teams
+    python-psutil
+    python-pygit2 >= 0.20.1
+    python-pygments
+    python-redis
+    python-setuptools
+    python-sqlalchemy > 0.8
+    python-straight-plugin
+    python-wtforms
+    python2-devel
+pagure-webhook
+    python-alembic
+    python-arrow
+    python-binaryornot
+    python-bleach
+    python-blinker
+    python-celery
+    python-chardet
+    python-cryptography
+    python-docutils
+    python-enum34
+    python-fedora
+    python-flask
+    python-flask-multistatic
+    python-flask-wtf
+    python-markdown
+    python-munch
+    python-nose
+    python-openid
+    python-openid-cla
+    python-openid-teams
+    python-psutil
+    python-pygit2 >= 0.20.1
+    python-pygments
+    python-redis
+    python-setuptools
+    python-sqlalchemy > 0.8
+    python-straight-plugin
+    python-wtforms
+    python2-devel
+paraview
+    python-devel
+    python-qt5
+    python2-autobahn
+    python2-devel
+    python2-numpy
+    python2-sphinx
+    python2-twisted
+paraview-mpich
+    python-devel
+    python-qt5
+    python2-autobahn
+    python2-devel
+    python2-numpy
+    python2-sphinx
+    python2-twisted
+paraview-openmpi
+    python-devel
+    python-qt5
+    python2-autobahn
+    python2-devel
+    python2-numpy
+    python2-sphinx
+    python2-twisted
+parley
+passenger
+pcapdiff
+    python-devel
+pdc-client
+    python-mock
+    python-nose
+    python-requests
+    python-requests-kerberos
+    python-setuptools
+    python2-beanbag
+    python2-devel
+    python3-beanbag
+    python3-devel
+    python3-mock
+    python3-nose
+    python3-pytest
+    python3-requests
+    python3-requests-kerberos
+    python3-setuptools
+percona-xtrabackup-test
+    python-sphinx
+perf
+    python2-devel
+petit
+    python-devel
+phatch-cli
+    python
+    python-setuptools
+plague
+    python
+plague-builder
+    python
+playonlinux
+    python2 > 2.4
+plplot
+    python-devel
+    python-qt5-devel
+pluma
+    python2-devel
+policycoreutils-dbus
+    python-devel
+    python3-devel
+policycoreutils-gui
+    python-devel
+    python3-devel
+pology
+    python2-devel
+polymake
+pony
+    python-devel
+prelude-correlator
+    python2-devel
+    python2-setuptools
+    python3-devel
+    python3-setuptools
+prepaid-manager-applet
+    dbus-python-devel
+pulp-rpm-yumplugins
+    python-rpm-macros
+    python2-devel
+    python2-rpm-macros
+    python2-setuptools
+    python2-sphinx
+pybliographer
+    gnome-python2-gconf
+    gnome-python2-gnome
+    python2-bibtex
+pygobject2-codegen
+    pkgconfig(python2)
+pygobject2-doc
+    pkgconfig(python2)
+pygtk2
+    python2-devel >= 2.3.5
+pynag-examples
+    python-devel
+    python-setuptools
+pysdm
+    python2-devel
+PySolFC
+    python-devel
+python26
+    python2
+python2-datanommer-models
+    python-alembic
+    python-fedmsg-meta-fedora-infrastructure
+    python-nose
+    python-setuptools
+    python-sqlalchemy >= 0.7
+    python2-devel
+python2-fedimg
+    python-libcloud
+    python-mock
+    python-nose
+    python-paramiko
+    python-setuptools
+    python2-devel
+    python2-fedfind
+python2-fedmsg-genacls
+    python-setuptools
+    python2-devel
+python2-fmn
+    python-datanommer-models
+    python2-arrow
+    python2-beautifulsoup4
+    python2-bleach
+    python2-bunch
+    python2-celery
+    python2-devel
+    python2-docutils
+    python2-dogpile-cache
+    python2-fedmsg
+    python2-fedmsg-meta-fedora-infrastructure
+    python2-fedora
+    python2-flake8
+    python2-flask
+    python2-flask-openid
+    python2-html5lib
+    python2-markupsafe
+    python2-mock
+    python2-moksha-hub
+    python2-openid
+    python2-openid-cla
+    python2-openid-teams
+    python2-pika
+    python2-pydns
+    python2-pylibravatar
+    python2-pytest
+    python2-redis
+    python2-requests
+    python2-setuptools
+    python2-six
+    python2-sqlalchemy >= 0.8
+    python2-twisted
+    python2-vcrpy
+    python2-wtforms
+python2-fmn-lib
+    python-beautifulsoup4
+    python-docutils
+    python-fmn-rules
+    python-markupsafe
+    python-nose
+    python-setuptools
+    python-sqlalchemy
+    python2-devel
+python2-freeradius
+    python-devel
+python2-ganglia-gmond
+    python-devel
+python2-graphviz
+    python-devel
+python2-inotify-examples
+    python-devel
+    python3-devel
+python2-libopensync-plugin
+    python-devel
+python2-myhdl
+    python2-devel
+    python3-devel
+python2-pgu
+    python-devel
+python2-qgis
+    python2-devel
+    qscintilla-python
+    qscintilla-python-devel
+python2-tahrir-api
+    python-alembic
+    python-arrow
+    python-httplib2
+    python-mako >= 0.3.6
+    python-nose
+    python-paste-deploy
+    python-pygments
+    python-setuptools
+    python-simplejson
+    python-sqlalchemy >= 0.7
+    python-webob1.2
+    python-zope-interface
+    python-zope-sqlalchemy
+    python2-chai
+    python2-devel
+python2-volatility
+    python-setuptools
+    python2-devel
+python3-flower
+    python-babel >= 1.0
+    python-celery >= 3.1.0
+    python-futures
+    python-sphinx
+    python-sphinxcontrib-fulltoc
+    python-sphinxcontrib-httpdomain
+    python-tornado >= 4.2.0
+    python3-babel >= 1.0
+    python3-celery >= 3.1.0
+    python3-devel
+    python3-mock
+    python3-pytz
+    python3-tornado >= 4.2.0
+python3-mir-perf-framework
+    python3
+    python3-devel
+    python3-pillow
+python-cvxopt-examples
+    python2-devel
+    python2-nose
+    python2-setuptools
+    python3-devel
+    python3-nose
+    python3-setuptools
+    python3-sphinx
+python-docker-tests
+    python-ipaddress >= 1.0.16
+    python-websocket-client >= 0.32.0
+    python2-backports-ssl_match_hostname >= 3.5
+    python2-devel
+    python2-docker-pycreds >= 0.2.1
+    python2-mock >= 1.0.1
+    python2-pytest >= 2.9.1
+    python2-requests >= 2.14.2
+    python2-setuptools
+    python2-six >= 1.4.0
+    python3-devel
+    python3-docker-pycreds >= 0.2.1
+    python3-mock >= 1.0.1
+    python3-pytest >= 2.9.1
+    python3-requests >= 2.14.2
+    python3-setuptools
+    python3-six >= 1.4.0
+    python3-websocket-client >= 0.32.0
+python-genmsg-devel
+    python-catkin-sphinx
+    python-sphinx
+    python2-devel
+python-kiwi-glade
+    python-setuptools
+    python2-devel
+python-music21-common
+    python-chardet
+    python-enum34
+    python-jsonpickle
+    python-matplotlib
+    python-mock
+    python-pillow
+    python-six
+    python-webcolors
+    python-xlrd
+    python2-devel
+    python3-chardet
+    python3-devel
+    python3-jsonpickle
+    python3-matplotlib
+    python3-mock
+    python3-numpy
+    python3-pillow
+    python3-scipy
+    python3-six
+    python3-webcolors
+    python3-xlrd
+python-qpid-proton-docs
+    python2-devel
+    python3-devel
+qdigidoc-nautilus
+qgis-grass
+    python2-devel
+    qscintilla-python
+    qscintilla-python-devel
+qpid-dispatch-router
+    python-devel
+    python-qpid-proton >= 0.18.0
+qpid-tools
+    python2
+    python2-devel
+    python2-setuptools
+qt-creator-data
+qtools
+    python
+    python-qpid-proton
+rabbitvcs-caja
+    python2-devel
+    python3-devel
+    python3-gobject
+rabbitvcs-nautilus
+    python2-devel
+    python3-devel
+    python3-gobject
+rabbitvcs-nemo
+    python2-devel
+    python3-devel
+    python3-gobject
+rabbitvcs-thunar
+    python2-devel
+    python3-devel
+    python3-gobject
+radiotray
+    python-devel
+recoll
+    python2-devel
+retrace-server
+rhn-check
+    python-coverage
+    python-devel
+    rpm-python
+rhn-client-tools
+    python-coverage
+    python-devel
+    rpm-python
+rhn-custom-info
+    python-devel
+rhn-setup
+    python-coverage
+    python-devel
+    rpm-python
+rhn-setup-gnome
+    python-coverage
+    python-devel
+    rpm-python
+rho
+    python-devel
+    python-setuptools
+rhythmbox
+    python3-devel
+rhythmbox-alternative-toolbar
+    python3-gobject
+root-cli
+    python-devel
+    python3-devel
+root-cling
+    python-devel
+    python3-devel
+rpm-ostree-toolbox
+rust-debugger-common
+    python2
+rust-gdb
+    python2
+rust-lldb
+    python2
+rust-src
+    python2
+sagator-core
+    python-devel >= 2.2.2
+sagator-webq
+    python-devel >= 2.2.2
+sagemath-core
+    python-ZODB3
+    python-backports-shutil_get_terminal_size
+    python-brial
+    python-crypto
+    python-cvxopt
+    python-cypari2-devel
+    python-cysignals-devel
+    python-docutils
+    python-flask-autoindex
+    python-flask-babel
+    python-flask-openid
+    python-flask-silk
+    python-future
+    python-ipykernel
+    python-ipython
+    python-jupyter-core
+    python-matplotlib
+    python-networkx
+    python-pathlib2
+    python-pexpect
+    python-pickleshare
+    python-pkgconfig
+    python-prompt_toolkit
+    python-psutil
+    python-six
+    python-speaklater
+    python-sphinx
+    python-traitlets
+    python-twisted
+    python-twisted-mail
+    python-twisted-web
+    python2-devel
+sagemath-sagetex
+    python-ZODB3
+    python-backports-shutil_get_terminal_size
+    python-brial
+    python-crypto
+    python-cvxopt
+    python-cypari2-devel
+    python-cysignals-devel
+    python-docutils
+    python-flask-autoindex
+    python-flask-babel
+    python-flask-openid
+    python-flask-silk
+    python-future
+    python-ipykernel
+    python-ipython
+    python-jupyter-core
+    python-matplotlib
+    python-networkx
+    python-pathlib2
+    python-pexpect
+    python-pickleshare
+    python-pkgconfig
+    python-prompt_toolkit
+    python-psutil
+    python-six
+    python-speaklater
+    python-sphinx
+    python-traitlets
+    python-twisted
+    python-twisted-mail
+    python-twisted-web
+    python2-devel
+scribus-generator
+    python2-devel
+sediment
+    python-sphinx
+sems-conf_auth
+    python-devel
+sems-ivr
+    python-devel
+sems-mailbox
+    python-devel
+sems-pin_collect
+    python-devel
+setroubleshoot-server
+    python3
+    python3-devel
+shinken
+    python-devel
+    python-setuptools
+sigul
+    python
+    python-fedora
+    python-nss
+    python-sqlalchemy
+    python-urlgrabber
+sigul-bridge
+    python
+    python-fedora
+    python-nss
+    python-sqlalchemy
+    python-urlgrabber
+sigul-server
+    python
+    python-fedora
+    python-nss
+    python-sqlalchemy
+    python-urlgrabber
+singularity
+    python2-devel
+Singular-libs
+    python2-devel
+sk2py
+    python-devel
+smbios-utils-python
+    python-devel
+soletta-devel
+    python3 >= 3.4
+    python3-jsonschema
+solfege
+    python2-devel
+soundconverter
+    gnome-python2-bonobo
+    gnome-python2-canvas
+    gnome-python2-gconf
+    gnome-python2-gnome
+    gnome-python2-gnomevfs
+    python2-devel
+spacewalk-koan
+    python
+sparcy
+    python-devel
+    python-setuptools
+sphinxtrain
+    python2-Cython
+    python2-devel
+    python2-scipy
+    python2-setuptools
+    sphinxbase-python
+statscache-common
+    python-devel
+    python-fedmsg-meta-fedora-infrastructure
+    python-freezegun
+    python-futures
+    python-mock
+    python-moksha-hub >= 1.4.6
+    python-nose
+    python-setuptools
+    python-six
+    python-sqlalchemy
+subscription-manager-initial-setup-addon
+    python-devel
+    python-setuptools
+    python-six
+    python2-devel
+    python3-devel
+    python3-setuptools
+    python3-six
+subscription-manager-plugin-container
+    python-devel
+    python-setuptools
+    python-six
+    python2-devel
+    python3-devel
+    python3-setuptools
+    python3-six
+subscription-manager-plugin-ostree
+    python-devel
+    python-setuptools
+    python-six
+    python2-devel
+    python3-devel
+    python3-setuptools
+    python3-six
+sugar
+    python2-devel
+sugar-abacus
+    python-devel
+sugar-analyze
+    python
+sugar-browse
+    python-devel
+sugar-calculator
+    python
+    python-devel
+sugar-calendario
+    python
+sugar-castle
+    python2-devel
+sugar-chat
+    python-devel
+sugar-clock
+    python
+sugar-colordeducto
+    python2-devel
+sugar-connect
+    python
+sugar-countries
+    python
+sugar-cp-background
+    python2-devel
+sugar-cp-backup
+    python2-devel
+sugar-cp-datetime
+    python2-devel
+sugar-cp-frame
+    python2-devel
+sugar-cp-keyboard
+    python2-devel
+sugar-cp-language
+    python2-devel
+sugar-cp-modemconfiguration
+    python2-devel
+sugar-cp-network
+    python2-devel
+sugar-cp-power
+    python2-devel
+sugar-cp-updater
+    python2-devel
+sugar-cp-webaccount
+    python2-devel
+sugar-deducto
+    python2-devel
+sugar-distance
+    python-devel
+sugar-finance
+    python-devel
+sugar-flip
+    python-devel
+sugar-flipsticks
+    python2-devel
+sugar-fototoon
+    python-devel
+sugar-fractionbounce
+    python2-devel
+sugar-getiabooks
+    python
+sugar-hello-world
+    python2-devel
+sugar-imageviewer
+    python-devel
+sugar-implode
+    python
+sugar-infoslicer
+    python-devel
+sugar-jukebox
+    python-devel
+sugar-kuku
+    python2-devel
+sugar-labyrinth
+    python
+sugar-locosugar
+    python-devel
+sugar-log
+    python
+    python-devel
+sugar-maze
+    python-devel
+sugar-measure
+    python-devel
+sugar-memorize
+    python-devel
+sugar-moon
+    python2-devel
+sugar-nutrition
+    python
+    python-devel
+sugar-paint
+    python2-devel
+sugar-physics
+sugar-pippy
+    python-devel
+sugar-playgo
+    python
+sugar-portfolio
+    python-devel
+sugar-presence-service
+    python
+sugar-pukllanapac
+    python
+    python-devel
+sugar-read
+    python-devel
+sugar-recall
+    python
+sugar-record
+sugar-ruler
+    python-devel
+sugar-speak
+    python
+sugar-srilanka
+    python2-devel
+sugar-starchart
+    python2-devel
+sugar-stopwatch
+    python-devel
+sugar-story
+    python2-devel
+sugar-terminal
+    python-devel
+sugar-turtleart
+    python2-devel
+sugar-typing-turtle
+    python-devel
+sugar-view-slides
+    python
+sugar-visualmatch
+    python-devel
+sugar-words
+    python2-devel
+sugar-write
+    python-abiword
+    python2-devel
+sugar-xoeditor
+    python2-devel
+sugar-xoirc
+    python-devel
+sugar-xomail
+    python
+sugar-yupana
+    python
+supertuxkart-data
+swatchbooker
+    python-qt5-devel
+    python-setuptools
+    python2-devel
+    python2-pillow-qt
+switchdesk-gui
+    python-devel
+syncthing-gtk
+    python2-devel
+    python2-setuptools
+syslog-ng-devel
+    python
+    python-nose
+    python-pep8
+    python-ply
+    python-six
+    python-unittest2
+system-config-bind
+    python
+system-config-httpd
+    python2-devel
+system-config-kdump
+system-config-keyboard
+    python2-devel
+system-config-kickstart
+system-config-users
+    python >= 2.0
+system-switch-displaymanager-gnome
+    python
+system-switch-java
+    python-devel
+system-switch-mail
+    python-devel
+system-switch-mail-gnome
+    python-devel
+systemtap-client
+    python-devel
+    python-setuptools
+    python3-devel
+    python3-setuptools
+systemtap-testsuite
+    python-devel
+    python-setuptools
+    python3-devel
+    python3-setuptools
+tellico
+tortoisehg-nautilus
+    python-sphinx
+    python2-devel
+trac
+    python-configobj
+    python-devel
+    python-docutils
+    python-genshi >= 0.6
+    python-lxml
+    python-pygments
+    python-setuptools
+    subversion-python
+tracer-common
+    python-beautifulsoup4
+    python-lxml
+    python-psutil
+    python-pygments
+    python-sphinx
+    python2-devel
+    python3-beautifulsoup4
+    python3-devel
+    python3-lxml
+    python3-psutil
+    python3-pygments
+    python3-sphinx
+tsung
+    python-devel
+    python-sphinx
+tuned
+    python
+tuned-utils
+    python
+tuxcut
+    python2
+ugene
+uhd
+    python-cheetah
+    python-mako
+umbrello
+variety
+    dbus-python
+    python-appindicator
+    python-beautifulsoup4
+    python-configobj
+    python-distutils-extra
+    python-imaging-devel
+    python-lxml
+    python-pillow-devel
+    python-pycurl
+    python-setuptools
+    python2-devel
+    python2-gexiv2
+    python2-requests
+vdr-epg-daemon
+    python2-devel
+vdrift-data
+    python2
+vdsm
+    libselinux-python
+    libvirt-python
+    policycoreutils-python
+    python
+    python-cpopen >= 1.4
+    python-inotify
+    python-ioprocess >= 0.16.1-1
+    python-mock
+    python-netaddr
+    python-nose
+    python-pthreading
+    python-six >= 1.9.0
+    python2-devel
+    rpm-python
+    sanlock-python
+vdsm-cli
+    libselinux-python
+    libvirt-python
+    policycoreutils-python
+    python
+    python-cpopen >= 1.4
+    python-inotify
+    python-ioprocess >= 0.16.1-1
+    python-mock
+    python-netaddr
+    python-nose
+    python-pthreading
+    python-six >= 1.9.0
+    python2-devel
+    rpm-python
+    sanlock-python
+vdsm-hook-checkips
+    libselinux-python
+    libvirt-python
+    policycoreutils-python
+    python
+    python-cpopen >= 1.4
+    python-inotify
+    python-ioprocess >= 0.16.1-1
+    python-mock
+    python-netaddr
+    python-nose
+    python-pthreading
+    python-six >= 1.9.0
+    python2-devel
+    rpm-python
+    sanlock-python
+vdsm-hook-openstacknet
+    libselinux-python
+    libvirt-python
+    policycoreutils-python
+    python
+    python-cpopen >= 1.4
+    python-inotify
+    python-ioprocess >= 0.16.1-1
+    python-mock
+    python-netaddr
+    python-nose
+    python-pthreading
+    python-six >= 1.9.0
+    python2-devel
+    rpm-python
+    sanlock-python
+vdsm-hook-ovs
+    libselinux-python
+    libvirt-python
+    policycoreutils-python
+    python
+    python-cpopen >= 1.4
+    python-inotify
+    python-ioprocess >= 0.16.1-1
+    python-mock
+    python-netaddr
+    python-nose
+    python-pthreading
+    python-six >= 1.9.0
+    python2-devel
+    rpm-python
+    sanlock-python
+vdsm-tests
+    libselinux-python
+    libvirt-python
+    policycoreutils-python
+    python
+    python-cpopen >= 1.4
+    python-inotify
+    python-ioprocess >= 0.16.1-1
+    python-mock
+    python-netaddr
+    python-nose
+    python-pthreading
+    python-six >= 1.9.0
+    python2-devel
+    rpm-python
+    sanlock-python
+vegastrike-data
+    python-devel
+viewmtn
+    python-devel
+vigra-devel
+    boost-python2
+    boost-python3
+    python2-numpy-f2py
+    python2-sphinx
+    python3-numpy-f2py
+virt-manager
+    python2-devel
+virt-manager-common
+    python2-devel
+votca-csg-common
+vtk-mpich-python
+    python2-devel
+vtk-openmpi-python
+    python2-devel
+wallpapoz
+    gnome-python2
+    gnome-python2-gnome
+    python-devel
+    python-imaging
+wicd-common
+    python2-devel
+wicd-curses
+    python2-devel
+wicd-gtk
+    python2-devel
+winswitch
+    python-setuptools
+    python2-devel
+wordgroupz
+    python2-devel
+wxPython-devel
+    python2-devel
+xastir
+    python-devel
+xed
+    python3-devel
+xemacs-packages-extra
+    python2-devel
+xplayer
+    python3-devel
+    python3-pylint
+x-tile
+    python-setuptools
+xviewer-plugins
+    python3-devel
+yum-axelget
+    python-setuptools
+    python2-devel
+yum-dellsysid
+    python-devel
+yum-langpacks
+    python-setuptools
+    python2-devel
+yum-plugin-aliases
+    python-devel >= 2.4
+yum-plugin-auto-update-debug-info
+    python-devel >= 2.4
+yum-plugin-changelog
+    python-devel >= 2.4
+yum-plugin-copr
+    python-devel >= 2.4
+yum-plugin-fastestmirror
+    python-devel >= 2.4
+yum-plugin-filter-data
+    python-devel >= 2.4
+yum-plugin-fs-snapshot
+    python-devel >= 2.4
+yum-plugin-keys
+    python-devel >= 2.4
+yum-plugin-list-data
+    python-devel >= 2.4
+yum-plugin-local
+    python-devel >= 2.4
+yum-plugin-merge-conf
+    python-devel >= 2.4
+yum-plugin-ovl
+    python-devel >= 2.4
+yum-plugin-post-transaction-actions
+    python-devel >= 2.4
+yum-plugin-priorities
+    python-devel >= 2.4
+yum-plugin-protectbase
+    python-devel >= 2.4
+yum-plugin-ps
+    python-devel >= 2.4
+yum-plugin-puppetverify
+    python-devel >= 2.4
+yum-plugin-refresh-updatesd
+    python-devel >= 2.4
+yum-plugin-remove-with-leaves
+    python-devel >= 2.4
+yum-plugin-rpm-warm-cache
+    python-devel >= 2.4
+yum-plugin-show-leaves
+    python-devel >= 2.4
+yum-plugin-tmprepo
+    python-devel >= 2.4
+yum-plugin-tsflags
+    python-devel >= 2.4
+yum-plugin-upgrade-helper
+    python-devel >= 2.4
+yum-plugin-verify
+    python-devel >= 2.4
+yum-plugin-versionlock
+    python-devel >= 2.4
+yum-rhn-plugin
+    python
