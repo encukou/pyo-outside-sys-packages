@@ -17,3 +17,7 @@ py3_count = len([v for v in pkgs.values() if v])
 total_count = len(pkgs)
 
 print('Python3 BRs: {}/{} -- {}%'.format(py3_count, total_count, 100 * py3_count / total_count))
+
+for pkg, py3 in pkgs.items():
+    if py3:
+        print('   ', pkg)
